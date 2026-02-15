@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #f2f2f2;
+    text-align: center;
+}
+
+.city-box {
+    width: 300px;
+    margin: 100px auto;
+    background:  #3f72c8;
+    color: white;
+    padding: 20px;
+}
+
+.city-box a {
+    color: white;
+    text-decoration: none;
+}
+
+.city-page {
+    width: 80%;
+    margin: 30px auto;
+    background: #5888da;
+    color: white;
+    padding: 20px;
+}
